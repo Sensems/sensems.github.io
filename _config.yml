@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 木木木
 subtitle: ''
-description: ''
+description: ''一位正在重塑和新增知识的技术人'
 keywords:
-author: John Doe
-language: en
+author: Sensems
+language: zh-CN
 timezone: ''
 
 # URL
@@ -22,7 +22,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: docs
+public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -102,4 +102,6 @@ theme: Aurora
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/Sensems/sensems.github.io.git
+  branch: gh-pages
