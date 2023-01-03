@@ -15,7 +15,7 @@ site:
   description: '一位正在重塑和新增知识的技术人'
   link: '/'
   language: zh-CN
-  multi_language: false
+  multi_language: true
   logo: https://homeimage.hoiyee.net/lbs/2023-1-3/ywa8wim0wn_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230103144606.jpg
   avatar: https://homeimage.hoiyee.net/lbs/2023-1-3/ywa8wim0wn_%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20230103144606.jpg
   beian:
@@ -47,6 +47,7 @@ menu:
   About: true
   Tags: true
   Archives: true
+  language: zh-CN
 
 #! ---------------------------------------------------------------
 #! Theme Config
