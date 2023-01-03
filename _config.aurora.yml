@@ -109,7 +109,7 @@ gitalk:
   owner: 'TriDiamond'
   admin: ['TriDiamond']
   id: uid
-  language: en
+  language: zh-CN
   distractionFreeMode: true
   recentComment: true
   proxy: ''
@@ -153,7 +153,7 @@ copy_protection:
 #! ---------------------------------------------------------------
 aurora_bot:
   enable: false
-  locale: en
+  locale: zh-CN
   bot_type: dia
   tips:
 
