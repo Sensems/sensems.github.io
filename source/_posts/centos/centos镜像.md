@@ -1,6 +1,6 @@
 ---
 title: CentOS 镜像
-cover: https://gitee.com/Sensems/image-bed/raw/master/image/centos-8-2023-1-915:48:33.jpg
+cover: https://api.onedrive.com/v1.0/shares/s!AkvcybxHlBS0kABBGGJbNnm15YHO/root/content
 categories:
   - Centos
 tags:
