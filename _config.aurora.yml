@@ -47,6 +47,15 @@ menu:
   About: true
   Tags: true
   Archives: true
+  tools:
+    name: '小工具'
+    children:
+      linux:
+        name: 'linux命令查询'
+        path: 'https://linux.sensems.top'
+      excalidraw:
+        name: 'excalidraw手绘画板'
+        path: 'https://excalidraw.sensems.top'
   language: zh-CN
 
 #! ---------------------------------------------------------------
@@ -137,7 +146,7 @@ busuanzi:
   enable: true
 
 copy_protection:
-  enable: true
+  enable: false
   author:
     cn: 作者
     en: Author
